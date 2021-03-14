@@ -1,4 +1,4 @@
-## Tarea regresion lineal - ciencias de datos
+## Tarea regresion lineal - Topicos avanzados de estadistica - Ciencias de datos
 
 ## Autor: Andres Felipe Rincon Prieto
 
